@@ -1,4 +1,4 @@
-import './App.css'
+import './app.css'
 import TemperatureGuidedReasoningDemo from './components/TemperatureGuidedReasoningDemo'
 
 function App() {
